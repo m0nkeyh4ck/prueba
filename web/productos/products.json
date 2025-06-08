@@ -1,77 +1,75 @@
 [
   {
-    id: 1,
-    name: "Auriculares inalámbricos",
-    price: "$120.000",
-    image: "https://m.media-amazon.com/images/I/71YhLSKH76L.jpg",
-    description: "Auriculares Bluetooth con cancelación de ruido y estuche de carga.",
+    "id": 1,
+    "name": "Auriculares inalámbricos",
+    "price": "$120.000",
+    "image": "https://m.media-amazon.com/images/I/71YhLSKH76L.jpg",
+    "description": "Auriculares Bluetooth con cancelación de ruido y estuche de carga."
   },
   {
-    id: 2,
-    name: "Smartwatch deportivo",
-    price: "$180.000",
-    image: "https://i.blogs.es/12182b/61hfm2wnjwl._ac_sx679_/450_1000.jpg",
-    description: "Reloj con monitoreo de ritmo cardíaco y resistencia al agua.",
+    "id": 2,
+    "name": "Smartwatch deportivo",
+    "price": "$180.000",
+    "image": "https://i.blogs.es/12182b/61hfm2wnjwl._ac_sx679_/450_1000.jpg",
+    "description": "Reloj con monitoreo de ritmo cardíaco y resistencia al agua."
   },
   {
-    id: 3,
-    name: "Mochila urbana",
-    price: "$95.000",
-    image: "https://http2.mlstatic.com/D_NQ_NP_830262-MLA82651082586_032025-O.webp",
-    description: "Mochila resistente, con múltiples compartimentos y diseño moderno.",
+    "id": 3,
+    "name": "Mochila urbana",
+    "price": "$95.000",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_830262-MLA82651082586_032025-O.webp",
+    "description": "Mochila resistente, con múltiples compartimentos y diseño moderno."
   },
   {
-    id: 4,
-    name: "Lámpara LED decorativa",
-    price: "$60.000",
-    image:
-      "https://trendifyshop.com.co/cdn/shop/files/Screenshot_2024-10-24_at_17.43.34.png?v=1729809915&width=1445",
-    description: "Iluminación cálida ideal para decoración de interiores.",
+    "id": 4,
+    "name": "Lámpara LED decorativa",
+    "price": "$60.000",
+    "image": "https://trendifyshop.com.co/cdn/shop/files/Screenshot_2024-10-24_at_17.43.34.png?v=1729809915&width=1445",
+    "description": "Iluminación cálida ideal para decoración de interiores."
   },
   {
-    id: 5,
-    name: "cámara de seguridad interior 2K",
-    price: "$220.000",
-    image: "https://m.media-amazon.com/images/I/61o4aeRIASL._AC_SL1500_.jpg",
-    images: [
+    "id": 5,
+    "name": "cámara de seguridad interior 2K",
+    "price": "$220.000",
+    "image": "https://m.media-amazon.com/images/I/61o4aeRIASL._AC_SL1500_.jpg",
+    "images": [
       "https://m.media-amazon.com/images/I/61o4aeRIASL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/61LrK0ZDRQL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71uEK+AX9YL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71aRoAGQCDL._AC_SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71wqGnngvmL._AC_SL1500_.jpg"
     ],
-    description: "litokam Cámaras interiores para seguridad en el hogar con visión nocturna, cámara para mascotas con aplicación de teléfono, cámara de seguridad interior 2K, detección de movimiento, audio de 2 vías",
-    specs: [
-      "Usos Recomendados Para Producto:	Seguridad en Interiores",
-      "Marca:	litokam",
-      "Nombre del modelo:	LF-C1T",
+    "description": "litokam Cámaras interiores para seguridad en el hogar con visión nocturna, cámara para mascotas con aplicación de teléfono, cámara de seguridad interior 2K, detección de movimiento, audio de 2 vías",
+    "specs": [
+      "Usos Recomendados Para Producto: Seguridad en Interiores",
+      "Marca: litokam",
+      "Nombre del modelo: LF-C1T",
       "Tecnología de conectividad: wifi"
     ]
   },
   {
-    id: 6,
-    name: "Batería portátil",
-    price: "$70.000",
-    image:
-      "https://panamericana.vtexassets.com/arquivos/ids/449030/bateria-portatil-20000mah-2-1a-negra-7503028221455.jpg",
-    description: "Power bank de 20000mAh, ideal para viajes largos.",
+    "id": 6,
+    "name": "Batería portátil",
+    "price": "$70.000",
+    "image": "https://panamericana.vtexassets.com/arquivos/ids/449030/bateria-portatil-20000mah-2-1a-negra-7503028221455.jpg",
+    "description": "Power bank de 20000mAh, ideal para viajes largos."
   },
   {
-    id: 7,
-    name: "Auriculares inalámbricos",
-    price: "$120.000",
-    image: "https://m.media-amazon.com/images/I/71YhLSKH76L.jpg",
-    images: [
+    "id": 7,
+    "name": "Auriculares inalámbricos",
+    "price": "$120.000",
+    "image": "https://m.media-amazon.com/images/I/71YhLSKH76L.jpg",
+    "images": [
       "https://http2.mlstatic.com/D_NQ_NP_833041-MCO82399246824_022025-O.webp",
       "https://m.media-amazon.com/images/I/71YhLSKH76L.jpg",
       "https://i5.walmartimages.com/asr/777f0114-11e2-4acd-8b83-7ba57bac9f77.6bd081fc32b4fea07ed1d3953f2cf59b.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
     ],
-    description: "Auriculares Bluetooth con cancelación de ruido y estuche de carga.",
-    specs: [
+    "description": "Auriculares Bluetooth con cancelación de ruido y estuche de carga.",
+    "specs": [
       "Bluetooth 5.0",
       "20 horas de batería",
       "Carga rápida USB-C",
       "Cancelación activa de ruido"
     ]
-  },
+  }
 ]
