@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tienda",
+    "title": "Tienda",
+    "description": "Compra productos únicos bajo pedido con envío directo y personalizado.",
+    "image": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "turismo",
+    "title": "Turismo",
+    "description": "Descubre lugares increíbles para visitar en el Amazonas.",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "fauna-flora",
+    "title": "Fauna y Flora",
+    "description": "Conoce la biodiversidad única de la región amazónica.",
+    "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "servicios",
+    "title": "Servicios",
+    "description": "Transporte, comida, hotel y más para tu comodidad.",
+    "image": "https://us.123rf.com/450wm/tul/tul1505/tul150500018/40031501-public-utility-icons-mono-vector-symbols.jpg"
+  }
+]
