@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Promo audífonos",
-    "link": "https://tutienda.com/producto/audifonos",
+    "link": "http://192.168.2.14:5173/mercado",
     "image": "https://nupec.com/wp-content/uploads/2020/07/Captura-de-pantalla-2020-07-24-a-las-17.33.44.png"
   },
   {
@@ -14,7 +14,7 @@
   {
     "id": 3,
     "title": "Oferta mochila",
-    "link": "https://tutienda.com/producto/mochila",
+    "link": "http://192.168.2.14:5173/mercado",
     "image": "https://www.dogking.es/preguntas-frecuentes/articulos/imagenes/252_1.jpg"
   }
 ]
