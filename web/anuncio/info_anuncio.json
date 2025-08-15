@@ -16,5 +16,41 @@
     "title": "Oferta mochila",
     "link": "https://eoni4.com",
     "image": "https://www.dogking.es/preguntas-frecuentes/articulos/imagenes/252_1.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Animación 1",
+    "link": "https://www.behance.net/gallery/194042773/The-Best-Of-Gifs",
+    "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/091089194042773.661d38a331980.gif"
+  },
+  {
+    "id": 5,
+    "title": "Animación 2",
+    "link": "https://www.tendencias.kpmg.es/2024/01/inteligencia-artificial-generativa-apocalipticos-vs-integrados/wow-gif/",
+    "image": "https://www.tendencias.kpmg.es/wp-content/uploads/2023/06/Wow-gif.gif"
+  },
+  {
+    "id": 6,
+    "title": "Animación 3",
+    "link": "https://www.wattpad.com/1031030484-%C2%A1no-me-compliques-wattpad-10-g-i-f-s",
+    "image": "https://img.wattpad.com/043ca2553aab77c1159a3f3ff14aea7efcc5a50e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f76563642457346696559766b35513d3d2d313033313033303438342e313636363931346430663838366634393639303434313330393133372e676966"
+  },
+  {
+    "id": 7,
+    "title": "Animación 4",
+    "link": "https://blog.orange.es/innovacion/historia-gif/",
+    "image": "https://lh6.googleusercontent.com/U2WKp4jn8iQWfzwq5vXE9kLZu_JC5LRfxl8QDYANPHfYhBQCOK9v4D7UIIbTIZNC4VURD_csWn2C0oUn_hLvgjPtQMy9AsrRbYCO0Q6cj8tPu75VvNtbQEeYTfqOZ9qtQTzUx_-9AppUkGNCnxpdmQ"
+  },
+  {
+    "id": 8,
+    "title": "Animación 5",
+    "link": "https://learn.g2.com/gifs-for-marketing",
+    "image": "https://learn.g2.com/hs-fs/hubfs/plan%20gif%20marketing%20strategy.gif?width=500&name=plan%20gif%20marketing%20strategy.gif"
+  },
+  {
+    "id": 9,
+    "title": "Animación 6",
+    "link": "https://es.wikipedia.org/wiki/Archivo:Cool_jump.gif",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Cool_jump.gif"
   }
 ]
